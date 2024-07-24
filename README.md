@@ -1,4 +1,4 @@
-![Outsourcing Agent](https://github.com/user-attachments/assets/3101a031-bd6d-4701-92a8-a105a1f49bf1)
+![Outsourcing Agent](https://github.com/user-attachments/assets/70cf18b4-43d3-485b-86fe-f5b81438b711)
 
 > Assistive work outsource agent.
 
