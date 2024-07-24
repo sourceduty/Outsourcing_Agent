@@ -16,6 +16,12 @@ In addition to finding outsourcing opportunities, the Outsourcing Agent helps ma
 [Manufacturing Source](https://chatgpt.com/g/g-uq71ilnHV-manufacturing-source)
 <br>
 [Business Restructure](https://chatgpt.com/g/g-mYkrhTmJd-business-restructure)
+<br>
+[B2B Partnership](https://chat.openai.com/g/g-YmjyjvVOx-b2b-partnership)
+<br>
+[Management Consulting](https://chat.openai.com/g/g-tLe5xRmMw-management-consulting)
+<br>
+[Joint Project](https://chat.openai.com/g/g-EEvHlNpFC-joint-project)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
